@@ -21,5 +21,3 @@ This project demonstrates how to implement **Spring Security** with **Spring Boo
 - **Lombok** - Simplified Java code  
 - **Postman/Swagger** - API testing  
 
-## 📚 Project Structure
-
